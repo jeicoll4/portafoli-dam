@@ -1,0 +1,47 @@
+========================================================
+PORTAFOLI PERSONAL I BITACOLA DE DESENVOLUPAMENT
+========================================================
+
+1. SOBRE MI
+-----------
+
+Nom i cognoms: Joan
+Cicle: CFGS Desenvolupament d Aplicacions Multiplataforma (DAM)
+Presentacio: Soc estudiant de DAM i estic començant a aprendre
+programacio i desenvolupament d aplicacions. M interessa aprendre
+a programar i millorar els meus coneixements durant el curs.
+
+
+2. HABILITATS I EINES TECNIQUES
+-------------------------------
+
+Sistemes operatius: Windows
+Control de versions: Git, GitHub
+Llenguatges: Java
+Entorns i eines: Visual Studio Code
+Bases de dades: SQL
+
+
+3. BITACOLA DE PROJECTES I PRACTIQUES
+-------------------------------------
+
+Practica 01: Configuracio de l entorn i repositori Git
+
+Descripcio: Creacio del portafoli personal i configuracio
+del repositori amb Git i GitHub.
+
+Eines utilitzades: Visual Studio Code, Git i GitHub
+
+Que he apres: He apres a crear un repositori, utilitzar
+comandes basiques de Git i pujar els meus fitxers a GitHub.
+
+
+4. OBJECTIUS
+------------
+
+Aprendre a programar
+Millorar en Java
+Aprendre a utilitzar bases de dades
+Millorar amb Git i GitHub
+Crear els meus propis projectes
+Millorar els meus coneixements durant el cicle
